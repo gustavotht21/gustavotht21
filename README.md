@@ -23,7 +23,7 @@
 #
 
 <div  align="center"> 
-  <a href="http://lattes.cnpq.br/6302055568388302" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-casagrande-borges-0a10a5265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOcDFvMvlTECpuH%2BErC6%2Bow%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/borges_gustavo21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCISEy9deq0UflwuKTbXUhfA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/borgesgustavo21" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
