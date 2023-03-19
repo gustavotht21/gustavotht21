@@ -1,6 +1,26 @@
 <h2 align="center">
   Olá! Eu sou Gustavo Borges
  </h2>
+ 
+<p style="text-align: justify;">Sou estudante do 3° ano no IFRO (Instituto Federal de Ciência, Educação e Tecnologia de Rondônia) na modalidade de Curso Técnico de Informática Integrado ao Ensino Médio e pesquisador no GoTec (Grupo de Pesquisa em Soluções Tecnológicas). 
+  
+Tenho interesse em fazer graduação em Engenharia de Controle e Automação também no IFRO e posteriormente Engenharia de Software.
+
+Atualmente estou estudando para seguir na área de Desenvolvedor Web Fullstack, mas tenho bastante interesse também na área de desenvolvimento mobile.
+
+Já estudei ferramentas e tecnologias como:
+  <ul>
+    <li>Laravel;</li>
+      <li>React;</li>
+      <li>PHP;</li>
+      <li>PHP orientado à objetos;</li>
+      <li>Docker.</li>
+      <li>Typescript</li>
+      <li>Tailwindcss</li>
+  </ul>
+</p>
+
+#
 
 <div align="center">
     <a href="https://github.com/gustavotht21">
