@@ -2,10 +2,8 @@
   Olá! Eu sou Gustavo Borges
  </h2>
  
-<p style="text-align: justify;">Sou estudante do 3° ano no IFRO (Instituto Federal de Ciência, Educação e Tecnologia de Rondônia) na modalidade de Curso Técnico de Informática Integrado ao Ensino Médio e pesquisador no GoTec (Grupo de Pesquisa em Soluções Tecnológicas). 
+<p style="text-align: justify;">Sou Técnico em Informática e graduando do 1º Período no IFRO (Instituto Federal de Ciência, Educação e Tecnologia de Rondônia) no Bacharelado em Engenharia de Controle e Automação e pesquisador no GoTec (Grupo de Pesquisa em Soluções Tecnológicas). 
   
-Tenho interesse em fazer graduação em Engenharia de Controle e Automação também no IFRO e posteriormente Engenharia de Software.
-
 Atualmente estou estudando para seguir na área de Desenvolvedor Web Fullstack, mas tenho bastante interesse também na área de desenvolvimento mobile.
 
 Já estudei ferramentas e tecnologias como:
