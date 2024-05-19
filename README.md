@@ -1,21 +1,13 @@
 <h2 align="center">
-  Olá! Eu sou Gustavo Borges
+  Olá 👋
  </h2>
  
-<p style="text-align: justify;">Sou Técnico em Informática e graduando do 1º Período no IFRO (Instituto Federal de Ciência, Educação e Tecnologia de Rondônia) no Bacharelado em Engenharia de Controle e Automação e pesquisador no GoTec (Grupo de Pesquisa em Soluções Tecnológicas). 
-  
-Atualmente estou estudando para seguir na área de Desenvolvedor Web Fullstack, mas tenho bastante interesse também na área de desenvolvimento mobile.
+<p style="text-align: justify;">
+  Gustavo Casagrande Borges, atualmente está cursando Engenharia de Controle e Automação pelo Instituto Federal de Ciência, Educação e Tecnologia de Rondônia - IFRO, também é Técnico de Informática pela mesma instituição, onde concluiu seu ensino médio.
 
-Já estudei ferramentas e tecnologias como:
-  <ul>
-    <li>Laravel;</li>
-      <li>React;</li>
-      <li>PHP;</li>
-      <li>PHP orientado à objetos;</li>
-      <li>Docker.</li>
-      <li>Typescript</li>
-      <li>Tailwindcss</li>
-  </ul>
+  Atualmente está como pesquisador no Grupo de Pesquisa em Soluções Tecnológicas - GoTec, um grupo voltado ao desenvolvimento de soluções com foco em Indústria 4.0, Inteligência Artificial e Empreendedorismo Inovador, vinculado ao Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq. Ele está envolvido no principal projeto do grupo, o Tanque Saudável, primeira empresa-júnior da instituição, CNPJ 52.612.139/0001-90, no qual atua como Full Stack Web Developer, Full Stack App Developer e Designer UI e UX.
+
+  Além disso, participou do desenvolvimento do aplicativo Android Radar da Inovação durante o evento Negócios em TIC 2023 do Instituto Federal do Ceará. O evento tinha como objetivo desenvolver uma solução mobile com estudantes do ensino técnico e graduação dos institutos federais de todo o Brasil.
 </p>
 
 #
@@ -26,22 +18,20 @@ Já estudei ferramentas e tecnologias como:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavotht21&layout=compact&theme=tokyonight&langs_count=6"/>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Gugu-PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gugu-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Gugu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gugu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gugu-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Gugu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+<div align="center"><br/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
 </div>
 
 #
 
-<div  align="center"> 
-  <a href="https://www.linkedin.com/in/gustavo-casagrande-borges-0a10a5265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOcDFvMvlTECpuH%2BErC6%2Bow%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/borges_gustavo21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCISEy9deq0UflwuKTbXUhfA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/borgesgustavo21" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gustavocasborges" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:borges.gustavo@estudante.ifro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
 </div>
