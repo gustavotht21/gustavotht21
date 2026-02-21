@@ -3,11 +3,13 @@
  </h2>
  
 <p style="text-align: justify;">
-  Gustavo Casagrande Borges, atualmente está cursando Engenharia de Controle e Automação pelo Instituto Federal de Ciência, Educação e Tecnologia de Rondônia - IFRO, também é Técnico de Informática pela mesma instituição, onde concluiu seu ensino médio.
+  Sou Gustavo Casagrande Borges, desenvolvedor de software com sólida formação técnica e acadêmica. Atualmente, curso Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO) e sou Técnico em Informática pela mesma instituição, onde concluí o ensino médio.
 
-  Atualmente está como pesquisador no Grupo de Pesquisa em Soluções Tecnológicas - GoTec, um grupo voltado ao desenvolvimento de soluções com foco em Indústria 4.0, Inteligência Artificial e Empreendedorismo Inovador, vinculado ao Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq. Ele está envolvido no principal projeto do grupo, o Tanque Saudável, primeira empresa-júnior da instituição, CNPJ 52.612.139/0001-90, no qual atua como Full Stack Web Developer, Full Stack App Developer e Designer UI e UX.
+  Atuei como pesquisador no Grupo de Pesquisa em Soluções Tecnológicas (GoTec), vinculado ao CNPq, voltado ao desenvolvimento de soluções em Indústria 4.0, Inteligência Artificial e Empreendedorismo Inovador. Nesse contexto, participei ativamente do principal projeto do grupo, o Tanque Saudável, primeira empresa júnior da instituição, desempenhando funções como Full Stack Web Developer, Full Stack App Developer e Designer UI/UX.
 
-  Além disso, participou do desenvolvimento do aplicativo Android Radar da Inovação durante o evento Negócios em TIC 2023 do Instituto Federal do Ceará. O evento tinha como objetivo desenvolver uma solução mobile com estudantes do ensino técnico e graduação dos institutos federais de todo o Brasil.
+  Possuo experiência prática no desenvolvimento de aplicações web modernas e escaláveis, utilizando Laravel no backend, React no frontend e Inertia.js para integração eficiente entre as camadas, além de Docker para padronização de ambientes e maior confiabilidade no deploy. Tenho foco em arquitetura limpa, manutenibilidade, boas práticas de código e experiência do usuário.
+
+  Também participei do desenvolvimento do aplicativo Android Radar da Inovação, criado durante o evento Negócios em TIC 2023, promovido pelo Instituto Federal do Ceará, em um ambiente colaborativo com estudantes de instituições federais de todo o Brasil, voltado à criação de soluções tecnológicas reais.
 </p>
 
 #
